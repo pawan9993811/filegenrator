@@ -1,0 +1,14 @@
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\obj\Debug\PegaSeleniumBase.csprojAssemblyReference.cache
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\obj\Debug\PegaSeleniumBase.csproj.CoreCompileInputs.cache
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\PegaSeleniumBase.exe.config
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\PegaSeleniumBase.exe
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\PegaSeleniumBase.pdb
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\NLog.dll
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\WebDriver.dll
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\WebDriver.Support.dll
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\NLog.xml
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\WebDriver.xml
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\bin\Debug\WebDriver.Support.xml
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\obj\Debug\PegaSeleniumBase.csproj.CopyComplete
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\obj\Debug\PegaSeleniumBase.exe
+C:\Users\jaldd\source\repos\PegaSeleniumBase\PegaSeleniumBase\obj\Debug\PegaSeleniumBase.pdb
